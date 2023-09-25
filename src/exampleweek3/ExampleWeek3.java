@@ -20,6 +20,7 @@ public class ExampleWeek3 {
           System.out.println("Week 3 pull, fetch+merge,branch,clone ");
            System.out.println("Week 3 pull  ");
            System.out.println("Week 3 fetch +merge");
+           System.out.println("Week 3 another change ");
     }
 
 }
